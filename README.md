@@ -1,3 +1,3 @@
-# Your blog
+# music
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+这是一个酷狗音乐的爬虫程序，爬取酷狗音乐的歌曲
